@@ -317,6 +317,10 @@
     <Content Include="Content\fonts\themify.ttf" />
     <Content Include="Content\fonts\themify.woff" />
     <None Include="packages.config" />
+    <Content Include="Views\Shared\_LayoutPartial\_Header.cshtml" />
+    <Content Include="Views\Shared\_LayoutPartial\_Preloder.cshtml" />
+    <Content Include="Views\Shared\_LayoutPartial\_HeroSession.cshtml" />
+    <Content Include="Views\Shared\_LayoutPartial\_Footer.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
